@@ -1,8 +1,8 @@
 # AwesomeKGMLPapers
-A community curated list of high-impact papers in knowledge-guided machine learning (KGML) and scientific machine learning (SciML). 
+A community curated list of papers in knowledge-guided machine learning (KGML). [Should we say that: we are planning to expand the list to papers, models, datasets, researchers, workshops/events, funding opportunities, tutorials, ...] [Should we also say something on how someone can get involved as a moderator or content creator?] [Should we create an organization for KGML and a landing page with info on what is KGML (similar to https://kgml-lab.github.io/)? I could not see KGML being available so I created https://github.com/orgs/knowledge-guided-machine-learning/ just as a backup.]
 
 
-| Pub. Date | Paper Title | Knowledge Format | Knowledge Strength | Knowledge-ML Integration | Method of Knowledge-Guidance | Scientific Problem Type | Application Domain |
+| Pub. Date | Paper Title | Knowledge Format | Knowledge Type | Knowledge-ML Integration | Method of Knowledge-Guidance | Scientific Use-Case | Application Domain |
 |------------|-------------|------------------|--------------------|--------------------------|-----------------------------|------------------------|--------------------|
 | 02/01/2019 | [Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations](https://www.sciencedirect.com/science/article/pii/S0021999118307125) | PDE | Perfect | ML-Centric | Learning | Forward Modeling; Inverse Modeling | |
 | 07/29/2023 | [Physics-Informed Neural Operator for Learning Partial Differential Equations](https://arxiv.org/pdf/2111.03794) | PDE | Perfect | ML-Centric | Learning; Test-time optimization | Forward Modeling; Inverse Modeling; | |
