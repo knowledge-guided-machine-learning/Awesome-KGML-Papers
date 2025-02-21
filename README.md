@@ -5,6 +5,9 @@ To contribute a paper, link to a dataset, model, or include yourself or someone 
 
 [Should we say that: we are planning to expand the list to papers, models, datasets, researchers, workshops/events, funding opportunities, tutorials, ...] [Should we also say something on how someone can get involved as a moderator or content creator?] [Should we create an organization for KGML and a landing page with info on what is KGML (similar to https://kgml-lab.github.io/) but defining each of the columns in this table? It looks like github.com/KGML is not available so I created https://github.com/knowledge-guided-machine-learning/ just as a backup.]
 
+## Paper List
+<details>
+<summary> Paper list </summary>
 
 | Pub. Date | Paper Title | Knowledge Format | Knowledge Type | Knowledge-ML Integration | Method of Knowledge-Guidance | Scientific Use-Case | Application Domain |
 |------------|-------------|------------------|--------------------|--------------------------|-----------------------------|------------------------|--------------------|
@@ -21,4 +24,74 @@ To contribute a paper, link to a dataset, model, or include yourself or someone 
 | 02/16/2025 | [Physics-Informed Diffusion Models](https://arxiv.org/pdf/2403.14404) | PDE | Perfect | ML-Centric | Learning | Forward Modeling; Inverse Modeling; Generative Modeling | |
 | 07/23/2022 | [Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal Data](https://www.ijcai.org/proceedings/2022/0304.pdf) | PDE; Equations | Perfect | ML-Centric | Architecture | Forward Modeling | |
 | 06/09/2023 | [Physics-informed neural networks for modeling physiological time series for cuffless blood pressure estimation](https://www.nature.com/articles/s41746-023-00853-4) | Equations/Rules;| Perfect | ML-Centric | Learning | Forward Modeling | |
+</details>
 
+
+## Datasets
+<details>
+<summary> Datasets</summary>
+
+- [**ΦFlow**](https://tum-pbs.github.io/PhiFlow/)
+- [**PDEArena**](https://github.com/pdearena/pdearena)
+- [**The Well**](https://polymathic-ai.org/the_well/)
+- [**Johns Hopkins Turbulence Database**](https://turbulence.idies.jhu.edu/home)
+- [**BLASTNet Simulation Dataset**](https://blastnet.github.io/datasets)
+</details>
+
+## Workshops and Communities
+<details>
+<summary> Workshops and Communities</summary>
+
+- **[KGML Workshop Webpage](https://sites.google.com/vt.edu/kgml-bridge-aaai-25/home)**
+
+- **[AI4Science](https://ai4sciencecommunity.github.io/)**
+
+- **[SciML Oden Institute](https://sites.utexas.edu/scimlworkshop/)**
+
+</details>
+
+## Top Researcher
+
+<details>
+<summary> Top Researcher</summary>
+
+- **George Em Karniadakis** (Brown University)  
+- **Maziar Raissi** (UC Boulder)  
+- **Anuj Karpatne** (Virginia Tech)  
+- **Vipin Kumar** (University of Minnesota)  
+- **Xiaowei Jia** (University of Pittsburgh)  
+- **Christopher Rackauckas** (MIT)  
+- **Arka Daw** (ORNL)  
+- **Ramakrishnan Kannan** (ORNL)  
+- **Paris Perdikaris** (University of Pennsylvania)  
+- **Licheng Liu** (University of Minnesota)  
+- **Alexander Rodriguez** (University of Michigan, Ann Arbor)  
+- **Aditya Prakash** (Georgia Tech)  
+- **Nikhil Muralidhar** (Stevens Institute of Technology) 
+</details>
+
+## Links to model
+
+<details>
+<summary> Links to model</summary>
+
+### Coming Soon
+
+</details>
+
+---
+
+## Funding Opportunities
+<details>
+<summary> Funding Opportunities</summary>
+
+### Coming Soon
+</details>
+
+
+## Tutorial
+<details>
+<summary> Tutorial</summary>
+
+### Coming Soon
+</details>
