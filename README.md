@@ -55,7 +55,7 @@ To contribute a paper, link to a dataset, model, or include yourself or someone 
 ## Researcher
 
 <details>
-<summary> Top Researcher</summary>
+<summary> Researcher</summary>
 
 - **George Em Karniadakis** (Brown University)  
 - **Maziar Raissi** (UC Boulder)  
