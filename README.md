@@ -1,5 +1,5 @@
 # AwesomeKGMLPapers
-<img src="assets/kgml_bg.png" alt="Image" width="600" height="300">
+<img src="assets/kgml_bg.png" alt="Image" width="900" height="450">
 
 A community curated list of papers, datasets, models,  top researchers, workshops, funding opportunities in knowledge-guided machine learning (KGML). If you would like to get involved as a moderator or content creator, please send an email to: sadhikar1@stevens.edu with the subject: `KGML Content Moderation Volunteering` and with the body of the email including the request.
 
