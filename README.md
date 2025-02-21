@@ -1,4 +1,6 @@
 # AwesomeKGMLPapers
+<img src="assets/kgml_bg.png" alt="Image" width="600" height="300">
+
 A community curated list of papers, datasets, models,  top researchers, workshops, funding opportunities in knowledge-guided machine learning (KGML). If you would like to get involved as a moderator or content creator, please send an email to: sadhikar1@stevens.edu with the subject: `KGML Content Moderation Volunteering` and with the body of the email including the request.
 
 To contribute a paper, link to a dataset, model, or include yourself or someone you know as a KGML researcher, please send a pull request with a modification of the appropriate markdown file and our team will merge the request.
@@ -50,7 +52,7 @@ To contribute a paper, link to a dataset, model, or include yourself or someone 
 
 </details>
 
-## Top Researcher
+## Researcher
 
 <details>
 <summary> Top Researcher</summary>
