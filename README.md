@@ -5,8 +5,6 @@ A community curated list of papers, datasets, models,  top researchers, workshop
 
 To contribute a paper, link to a dataset, model, or include yourself or someone you know as a KGML researcher, please send a pull request with a modification of the appropriate markdown file and our team will merge the request.
 
-[Should we say that: we are planning to expand the list to papers, models, datasets, researchers, workshops/events, funding opportunities, tutorials, ...] [Should we also say something on how someone can get involved as a moderator or content creator?] [Should we create an organization for KGML and a landing page with info on what is KGML (similar to https://kgml-lab.github.io/) but defining each of the columns in this table? It looks like github.com/KGML is not available so I created https://github.com/knowledge-guided-machine-learning/ just as a backup.]
-
 ## Paper List
 <details>
 <summary> Paper list </summary>
