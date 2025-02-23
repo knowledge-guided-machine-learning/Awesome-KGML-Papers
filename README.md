@@ -72,27 +72,13 @@ To contribute a paper, link to a dataset, model, or include yourself or someone 
 </details>
 
 ## Links to model
-
-<details>
-<summary> Links to model</summary>
-
 ### Coming Soon
-
-</details>
-
----
 
 ## Funding Opportunities
-<details>
-<summary> Funding Opportunities</summary>
-
 ### Coming Soon
-</details>
+
 
 
 ## Tutorial
-<details>
-<summary> Tutorial</summary>
-
 ### Coming Soon
-</details>
+
