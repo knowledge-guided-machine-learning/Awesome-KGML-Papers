@@ -11,15 +11,30 @@ To contribute a paper, link to a dataset, model, or include yourself or someone 
 <img src="assets/kgmlmultidim.png" alt="Image" width="900" height="450">
 </p>
 
-**1. Format Used for Representing Knowledge**
+<details>
+<summary><b>Format Used for Representing Knowledge</b></summary>
+</details>
 
-**2. Type of Scientific Knowledge** : Scientific knowledge in KGML can be categorized as **(1) Perfect and Complete** – where all system processes are fully described by exact scientific equations, such as partial differential equations (PDEs), enabling ML models like PINNs and neural operators to serve as efficient solvers; **(2) Imperfect and Partial** – where knowledge is incomplete or contains approximations, requiring flexible integration methods like PGNNs and PGRNNs, which incorporate constraints while allowing for uncertainty. KGML research spans this continuum, adapting ML techniques based on the level of available scientific knowledge
+<details>
+  
+<summary> <b>Type of Scientific Knowledge</b> </summary>
+Scientific knowledge in KGML can be categorized as <b>(1) Perfect and Complete</b> – where all system processes are fully described by exact scientific equations, such as partial differential equations (PDE#s), enabling ML models like PINNs and neural operators to serve as efficient solvers; <b>(2) Imperfect and Partial</b> – where knowledge is incomplete or contains approximations, requiring flexible integration methods like PGNNs and PGRNNs, which incorporate constraints while allowing for uncertainty. KGML research spans this continuum, adapting ML techniques based on the level of available scientific knowledge
 
-**3. Form of Knowledge-ML integration**
+</details>
 
-**4. Method for Incorporating Scientific Knowledge in ML** : Scientific knowledge can be integrated into ML through three key methods: **(1) Learning-Based Methods** – modify the learning process using knowledge-guided loss functions to enforce scientific principles, as seen in PGNNs, PGRNNs, and PINNs; **(2) Architecture-Based Methods** – embed scientific constraints directly into model design, creating knowledge-guided architectures like PGA-LSTM or models capturing symmetries and invariances of dynamical systems in the architecture of neural networks; **(3) Pretraining** – initialize model parameters using weights informed by scientific knowledge, e.g. by pretraining the model on simulations of science-based models before fine-tuning on real data.
+<details>
+<summary><b>Form of Knowledge-ML integration</b></summary>
+  
+</details>
 
-**5. Scientific use-cases of KGML**
+<details>
+<summary> <b>Method for Incorporating Scientific Knowledge in ML</b></summary> 
+Scientific knowledge can be integrated into ML through three key methods: <b>(1) Learning-Based Methods</b> – modify the learning process using knowledge-guided loss functions to enforce scientific principles, as seen in PGNNs, PGRNNs, and PINNs; <b>(2) Architecture-Based Methods</b> – embed scientific constraints directly into model design, creating knowledge-guided architectures like PGA-LSTM or models capturing symmetries and invariances of dynamical systems in the architecture of neural networks; <b>(3) Pretraining</b> – initialize model parameters using weights informed by scientific knowledge, e.g. by pretraining the model on simulations of science-based models before fine-tuning on real data.
+</details>
+
+<details>
+<summary><b> Scientific use-cases of KGML</b></summary>
+</details>
 
 ## Paper List
 <details>
