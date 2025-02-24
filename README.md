@@ -87,24 +87,7 @@ Practical applications of knowledge-guided ML span a range of scientific problem
 </details>
 
 ## Researcher
-
-<details>
-<summary> Researcher</summary>
-
-- **George Em Karniadakis** (Brown University)  
-- **Maziar Raissi** (UC Boulder)  
-- **Anuj Karpatne** (Virginia Tech)  
-- **Vipin Kumar** (University of Minnesota)  
-- **Xiaowei Jia** (University of Pittsburgh)  
-- **Christopher Rackauckas** (MIT)  
-- **Arka Daw** (ORNL)  
-- **Ramakrishnan Kannan** (ORNL)  
-- **Paris Perdikaris** (University of Pennsylvania)  
-- **Licheng Liu** (University of Minnesota)  
-- **Alexander Rodriguez** (University of Michigan, Ann Arbor)  
-- **Aditya Prakash** (Georgia Tech)  
-- **Nikhil Muralidhar** (Stevens Institute of Technology) 
-</details>
+### Coming Soon
 
 ## Links to model
 ### Coming Soon
