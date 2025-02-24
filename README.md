@@ -2,7 +2,7 @@
 <p align="center">
 <img src="assets/kgml_bg.png" alt="Image" width="900" height="450">
 </p>
-A community curated list of papers, datasets, models,  top researchers, workshops, funding opportunities in knowledge-guided machine learning (KGML). If you would like to get involved as a moderator or content creator, please send an email to: sadhikar1@stevens.edu with the subject: `KGML Content Moderation Volunteering` and with the body of the email including the request.
+A community curated list of papers, datasets, models, researchers, workshops, funding opportunities in knowledge-guided machine learning (KGML). If you would like to get involved as a moderator or content creator, please send an email to: sadhikar1@stevens.edu with the subject: `KGML Content Moderation Volunteering` and with the body of the email including the request.
 
 To contribute a paper, link to a dataset, model, or include yourself or someone you know as a KGML researcher, please send a pull request with a modification of the appropriate markdown file and our team will merge the request.
 
@@ -13,7 +13,7 @@ To contribute a paper, link to a dataset, model, or include yourself or someone 
 
 <details>
 <summary><b>Format Used for Representing Knowledge</b></summary>
-Scientific knowledge in KGML can be represented in diverse mathematical or symbolic forms that are integrated into ML models. For example, 
+Scientific knowledge in KGML can be represented in diverse mathematical or symbolic forms to be integrated into ML models. For example, 
 <b>PDEs/Equations/Rules</b> employ mathematical formulations or heuristic rules to capture known physical relationships and directly embed domain expertise; <b>Symmetries/Invariances</b> involve incorporating invariant properties, such as rotational or translational symmetry, into network architectures to enhance generalization; <b>Knowledge Graphs</b> structure relationships between entities to ensure predictions remain consistent with established scientific connections; and <b>Mechanistic Models</b> combine detailed process-based models with ML to leverage existing simulation capabilities.
 
 </details>
@@ -22,13 +22,13 @@ Scientific knowledge in KGML can be represented in diverse mathematical or symbo
 <details>
   
 <summary> <b>Type of Scientific Knowledge</b> </summary>
-Scientific knowledge in KGML can be categorized as <b>(1) Perfect and Complete</b> – where all system processes are fully described by exact scientific equations, such as partial differential equations (PDE#s), enabling ML models like PINNs and neural operators to serve as efficient solvers; <b>(2) Imperfect and Partial</b> – where knowledge is incomplete or contains approximations, requiring flexible integration methods like PGNNs and PGRNNs, which incorporate constraints while allowing for uncertainty. KGML research spans this continuum, adapting ML techniques based on the level of available scientific knowledge
+Scientific knowledge in KGML can be categorized as <b>(1) Perfect and Complete</b> – where all system processes are fully described by exact scientific equations, such as partial differential equations (PDE#s), enabling ML models like PINNs and neural operators to serve as efficient solvers; <b>(2) Imperfect and Partial</b> – where knowledge is incomplete and/or contains approximations, requiring flexible integration methods like PGNNs and PGRNNs, which incorporate constraints while allowing for uncertainty. KGML research spans this continuum, adapting ML techniques based on the level of available scientific knowledge.
 
 </details>
 
 <details>
 <summary><b>Form of Knowledge-ML integration</b></summary>
-Integration methods vary based on whether ML or process-based components take center stage during prediction. For example:<b>Process-Centric:</b> ML is used to calibrate or enhance a traditional process-based model, with the physical model remaining the primary driver. <b>Hybrid:</b> Both ML and process-based components contribute to the final prediction, often through residual learning, to combine the strengths of each approach. <b>ML-Centric:</b> An ML model handles the main prediction task while being guided by physical constraints during training for scientific consistency.
+Frameworks for integrating Knowledge in ML vary based on whether ML or process-based components take center stage during prediction. In particular, we have the following frameworks: <b>Process-Centric:</b> ML is used to calibrate or enhance a traditional process-based model, with the physical model remaining the primary driver. <b>Hybrid:</b> Both ML and process-based components contribute to the final prediction, often through residual learning, to combine the strengths of each approach. <b>ML-Centric:</b> An ML model handles the main prediction task while being guided by physical constraints during training for scientific consistency.
 </details>
 
 <details>
@@ -86,10 +86,10 @@ Practical applications of knowledge-guided ML span a range of scientific problem
 
 </details>
 
-## Researcher
+## Researchers
 ### Coming Soon
 
-## Links to model
+## Links to models
 ### Coming Soon
 
 ## Funding Opportunities
@@ -97,6 +97,6 @@ Practical applications of knowledge-guided ML span a range of scientific problem
 
 
 
-## Tutorial
+## Tutorials
 ### Coming Soon
 
