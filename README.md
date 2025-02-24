@@ -13,7 +13,11 @@ To contribute a paper, link to a dataset, model, or include yourself or someone 
 
 <details>
 <summary><b>Format Used for Representing Knowledge</b></summary>
+Scientific knowledge in KGML can be represented in diverse mathematical or symbolic forms that are integrated into ML models. For example, 
+<b>PDEs/Equations/Rules</b> employ mathematical formulations or heuristic rules to capture known physical relationships and directly embed domain expertise; <b>Symmetries/Invariances</b> involve incorporating invariant properties, such as rotational or translational symmetry, into network architectures to enhance generalization; <b>Knowledge Graphs</b> structure relationships between entities to ensure predictions remain consistent with established scientific connections; and <b>Mechanistic Models</b> combine detailed process-based models with ML to leverage existing simulation capabilities.
+
 </details>
+
 
 <details>
   
@@ -24,7 +28,7 @@ Scientific knowledge in KGML can be categorized as <b>(1) Perfect and Complete</
 
 <details>
 <summary><b>Form of Knowledge-ML integration</b></summary>
-  
+Integration methods vary based on whether ML or process-based components take center stage during prediction. For example:<b>Process-Centric:</b> ML is used to calibrate or enhance a traditional process-based model, with the physical model remaining the primary driver. <b>Hybrid:</b> Both ML and process-based components contribute to the final prediction, often through residual learning, to combine the strengths of each approach. <b>ML-Centric:</b> An ML model handles the main prediction task while being guided by physical constraints during training for scientific consistency.
 </details>
 
 <details>
@@ -34,6 +38,7 @@ Scientific knowledge can be integrated into ML through three key methods: <b>(1)
 
 <details>
 <summary><b> Scientific use-cases of KGML</b></summary>
+Practical applications of knowledge-guided ML span a range of scientific problems where predictions or data enhancements are required. For example: <b>Forward Modeling:</b> Predicts system outputs from given inputs, serving either as a surrogate or an improved process-based model. <b>Inverse Modeling:</b> Infers hidden parameters or system states from observations, aiding in calibration and deepening system understanding. <b>Generative Modeling:</b> Produces synthetic data that mimics the physical system, useful for simulations or filling data gaps. <b>Downscaling:</b> Converts coarse-scale information into finer resolutions using ML super-resolution techniques guided by physical constraints. <b>Reduced Order Modeling:</b> Simplifies complex systems into lower-dimensional representations that capture essential dynamics, making simulations computationally efficient while preserving critical system behavior. <b>Equation Discovery:</b> Identifies governing equations from data, providing insights into underlying physical laws and enabling the formulation of new or improved scientific models.
 </details>
 
 ## Paper List
