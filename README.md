@@ -60,6 +60,7 @@ Practical applications of knowledge-guided ML span a range of scientific problem
 | 02/16/2025 | [Physics-Informed Diffusion Models](https://arxiv.org/pdf/2403.14404) | PDE | Perfect | ML-Centric | Learning | Forward Modeling; Inverse Modeling; Generative Modeling | |
 | 07/23/2022 | [Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal Data](https://www.ijcai.org/proceedings/2022/0304.pdf) | PDE; Equations | Perfect | ML-Centric | Architecture | Forward Modeling | |
 | 06/09/2023 | [Physics-informed neural networks for modeling physiological time series for cuffless blood pressure estimation](https://www.nature.com/articles/s41746-023-00853-4) | Equations/Rules;| Perfect | ML-Centric | Learning | Forward Modeling | |
+| 09/10/2024 | [KID-PPG: Knowledge Informed Deep Learning for Extracting Heart Rate From a Smartwatch](https://ieeexplore.ieee.org/abstract/document/10711278) | Equations/Rules | Imperfect and Partial | ML-Centric | Architecture and Learning | Forward Modeling | Heart Rate Monitoring |
 </details>
 
 
